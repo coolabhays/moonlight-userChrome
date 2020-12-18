@@ -1,3 +1,39 @@
+/* gruvbox-dark version */
+:root {
+    --moonlight-desaturated-gray: #7c6f64;
+    --moonlight-dark-blue: #076678;
+    --moonlight-blue: #458588;
+    --moonlight-sky-blue: #83a598;
+    --moonlight-cyan: #427b58;
+    --moonlight-red: #cc241d;
+    --moonlight-dark-red: #9d0006;
+    --moonlight-light-red: #fb4934;
+    --moonlight-yellow: #d79921;
+    --moonlight-orange: #d65d0e;
+    --moonlight-dark-orange: #af3a03;
+    --moonlight-teal: #689d6a;
+    --moonlight-green: #98971a;
+    --moonlight-purple: #b16286;
+    --moonlight-pink: #d3869b;
+    --moonlight-indigo: #6a68a1;
+    --moonlight-bright-cyan: #8ec07c;
+    --moonlight-gray-10-alt: #f9f5d7;
+    --moonlight-gray-10: #fbf1c7;
+    --moonlight-gray-9: #f2e5bc;
+    --moonlight-gray-8: #d5c4a1;
+    --moonlight-gray-7: #bdae93;
+    --moonlight-gray-6: #a89984;
+    --moonlight-gray-5: #928374;
+    --moonlight-gray-4: #665c54;
+    --moonlight-gray-3: #504945;
+    --moonlight-gray-2: #3c3836;
+    --moonlight-gray-1: #282828;
+
+    --scrollbar-chrome-size: 6px;
+}
+
+
+/* moonlight version
 :root {
     --moonlight-desaturated-gray: #7f85a3;
     --moonlight-dark-blue: #4976eb;
@@ -27,6 +63,6 @@
     --moonlight-gray-3: #1e2030;
     --moonlight-gray-2: #191a2a;
     --moonlight-gray-1: #131421;
-    
+
     --scrollbar-chrome-size: 6px;
-}
+} */
